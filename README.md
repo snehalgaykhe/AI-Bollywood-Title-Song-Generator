@@ -1,4 +1,7 @@
 # AI_Bollywood_TitleGen
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3fae2003-0279-4497-b455-82a91e535b37" />
+
 AI Bollywood Title Song Generator is an NLP-powered project that creates Bollywood-style song titles and lyrics based on mood, theme, or genre. It uses deep learning to mimic lyrical patterns and can be extended with text-to-speech for audio. Perfect for creators, musicians, and content developers. 🎶 AI Bollywood Title Song Generator 📖 Overview
 
 The AI Bollywood Title Song Generator is an NLP-based project that creates Bollywood-style song titles and lyrics based on mood, theme, or genre. It leverages deep learning to mimic lyrical patterns and generate creative, human-like outputs. This tool is perfect for musicians, writers, and content creators seeking inspiration.
